@@ -1,22 +1,27 @@
-/-!
-**Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.**
-
-**Original Author:** Benjamin Stanley Frohman (@Frohmanian / Bit21)
-
-This file is part of the original Frohmanian Symplectic Tether framework for the Navier–Stokes Millennium Problem.
--/
-/-!
-# Global Regularity: Final Integration and the Frohmanian Symplectic Tether Theorem
-
-This module assembles everything and states the main theorem exactly as
-formulated in the audited LaTeX (including the three parts of Theorem 2.1
-and the unconditional corollary from the PASS 5 argument).
+/-
+Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Benjamin Stanley Frohman
 -/
 
 import NS_Millennium_Proof.Modules.SymplecticTether
 import NS_Millennium_Proof.Modules.TetheredLyapunov
 import NS_Millennium_Proof.Modules.ArnoldGeometric
 import NS_Millennium_Proof.Modules.NS_Equations
+
+/-!
+# Modules.GlobalRegularity
+
+**Original Author:** Benjamin Stanley Frohman (@Frohmanian / Bit21)
+
+This file is part of the original Frohmanian Symplectic Tether framework for the Navier–Stokes Millennium Problem.
+
+# Global Regularity: Final Integration and the Frohmanian Symplectic Tether Theorem
+
+This module assembles everything and states the main theorem exactly as
+formulated in the audited LaTeX (including the three parts of Theorem 2.1
+and the unconditional corollary from the PASS 5 argument).
+-/
 
 namespace GlobalRegularity
 

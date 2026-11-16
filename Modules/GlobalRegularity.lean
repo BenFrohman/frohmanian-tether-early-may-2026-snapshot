@@ -1,7 +1,7 @@
 /-!
 **Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.**
 
-**Original Author:** Benjamin Stanley Frohman (@Investor0x / Bit21)
+**Original Author:** Benjamin Stanley Frohman (@Frohmanian / Bit21)
 
 This file is part of the original Frohmanian Symplectic Tether framework for the Navier–Stokes Millennium Problem.
 -/

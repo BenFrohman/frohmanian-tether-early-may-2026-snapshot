@@ -3,7 +3,7 @@
 **Proof of Global Smoothness for the 3D Incompressible Navier–Stokes Equations**  
 **The Frohmanian Symplectic Tether Theorem**
 
-**Author:** Benjamin Stanley Frohman (@Investor0x / Bit21)  
+**Author:** Benjamin Stanley Frohman (@Frohmanian / Bit21)  
 **Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.**
 
 This is a standalone archive of the early May 2026 Lean 4 formalization snapshot (corresponding to the v2026.05.28-historical tag / complete_implementation_2026-05-28 in the main repo).
